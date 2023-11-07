@@ -1,0 +1,80 @@
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\appsettings.Development.json
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\appsettings.json
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\InventoryService.exe
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\InventoryService.deps.json
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\InventoryService.runtimeconfig.json
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\InventoryService.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\InventoryService.pdb
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\Automatonymous.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\GreenPipes.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\MassTransit.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\NewId.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\Model.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\bin\Debug\net6.0\Model.pdb
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.csproj.AssemblyReference.cache
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.AssemblyInfoInputs.cache
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.AssemblyInfo.cs
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.csproj.CoreCompileInputs.cache
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.MvcApplicationPartsAssemblyInfo.cache
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\staticwebassets\msbuild.InventoryService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\staticwebassets\msbuild.build.InventoryService.props
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InventoryService.props
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InventoryService.props
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\staticwebassets.build.json
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\staticwebassets.development.json
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\scopedcss\bundle\InventoryService.styles.css
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.csproj.CopyComplete
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\refint\InventoryService.dll
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.pdb
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\InventoryService.genruntimeconfig.cache
+C:\rabbitsamples\LABS_CONVERSIONS\masstransit-demo-main\InventoryService\obj\Debug\net6.0\ref\InventoryService.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\appsettings.Development.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\appsettings.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\InventoryService.exe
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\InventoryService.deps.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\InventoryService.runtimeconfig.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\InventoryService.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\InventoryService.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\Automatonymous.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\GreenPipes.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\MassTransit.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\NewId.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\Model.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\bin\Debug\net6.0\Model.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.csproj.AssemblyReference.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.AssemblyInfoInputs.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.AssemblyInfo.cs
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.csproj.CoreCompileInputs.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\staticwebassets\msbuild.InventoryService.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\staticwebassets\msbuild.build.InventoryService.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InventoryService.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InventoryService.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\staticwebassets.build.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\staticwebassets.development.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\scopedcss\bundle\InventoryService.styles.css
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.csproj.CopyComplete
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\refint\InventoryService.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\InventoryService.genruntimeconfig.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\MICROSERVICES\NET CORE 60\RABBITMQ\PRODUCER CONSUMER\NO DOCKERmasstransit-order-inventory ncore60\InventoryService\obj\Debug\net6.0\ref\InventoryService.dll
